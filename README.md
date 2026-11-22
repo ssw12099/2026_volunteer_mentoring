@@ -22,6 +22,7 @@ Zoom으로 주 1회, 두 교시 수업을 진행합니다. 제가 화면을 공�
 | 3주차 | for 반복문 | [수업 PPT](weeks/03/C%EC%96%B8%EC%96%B4_3%ED%9A%8C%EC%B0%A8_for%EB%AC%B8_%EB%B0%98%EB%B3%B5%EB%AC%B8_90%EB%B6%84_%EC%88%98%EC%97%85%EC%9E%90%EB%A3%8C.pptx) |
 | 4주차 | while 반복문 | [수업 PPT](weeks/04/C%EC%96%B8%EC%96%B4_4%ED%9A%8C%EC%B0%A8_while%EB%AC%B8_%EB%B0%98%EB%B3%B5%EC%A0%9C%EC%96%B4_90%EB%B6%84_%EC%88%98%EC%97%85%EC%9E%90%EB%A3%8C.pptx) |
 | 5주차 | 중첩 반복과 패턴 | [수업 PPT](weeks/05/C%EC%96%B8%EC%96%B4_5%ED%9A%8C%EC%B0%A8_%EC%A4%91%EC%B2%A9%EB%B0%98%EB%B3%B5%EB%AC%B8_%ED%8C%A8%ED%84%B4_90%EB%B6%84_%EC%88%98%EC%97%85%EC%9E%90%EB%A3%8C.pptx) |
+| 6주차 | 별 피라미드와 반복문 | [수업 PPT](weeks/06/C%EC%96%B8%EC%96%B4_6%ED%9A%8C%EC%B0%A8_%EB%B3%84%ED%94%BC%EB%9D%BC%EB%AF%B8%EB%93%9C_%EB%B0%98%EB%B3%B5%EB%AC%B8_90%EB%B6%84_%EC%88%98%EC%97%85%EC%9E%90%EB%A3%8C%20%281%29.pptx) |
 | 7주차 | 반복문 복습 | [수업 PPT](weeks/07/C%EC%96%B8%EC%96%B4_7%ED%9A%8C%EC%B0%A8_%ED%95%9C%EB%8B%AC%EB%A7%8C%EC%9D%98_%EB%B3%B5%EC%8A%B5_%EB%B0%98%EB%B3%B5%EB%AC%B8_90%EB%B6%84_%EC%88%98%EC%97%85%EC%9E%90%EB%A3%8C%283%29.pptx) · [몬스터 잡기 보충 PPT](weeks/07/extras/C%EC%96%B8%EC%96%B4_%EC%B6%94%EA%B0%80%EC%8B%A4%EC%8A%B5_%EB%AA%AC%EC%8A%A4%ED%84%B0%EC%9E%A1%EA%B8%B0%EA%B2%8C%EC%9E%84_PPT%282%29.pptx) |
 | 8주차 | 보물 동굴 탈출 | [수업 PPT](weeks/08/C%EC%96%B8%EC%96%B4_8%ED%9A%8C%EC%B0%A8_%EB%B3%B4%EB%AC%BC%EB%8F%99%EA%B5%B4%ED%83%88%EC%B6%9C_%EC%8B%9C%EA%B0%81%EC%9E%90%EB%A3%8C%EB%B3%B4%EA%B0%95.pptx) |
 | 9주차 | 배열과 부스터 레이스 | [수업 PPT](weeks/09/C%EC%96%B8%EC%96%B4_9%EC%A3%BC%EC%B0%A8_%EB%B0%B0%EC%97%B4%EA%B3%BC_%EB%B6%80%EC%8A%A4%ED%84%B0%EB%A0%88%EC%9D%B4%EC%8A%A4.pptx) · [실습 코드](weeks/09/practice/) |
@@ -30,4 +31,4 @@ Zoom으로 주 1회, 두 교시 수업을 진행합니다. 제가 화면을 공�
 
 부스터 레이스의 `01_try.c`부터 순서대로 연습할 수 있습니다. `*_answer.c`는 단계별 정답이고, `race_final.c`는 완성 게임입니다.
 
-새 자료는 `weeks/NN/`에, 보충 활동은 해당 주차의 `extras/`에 둡니다. 원본 PPT의 파일명을 유지하며, 6주차 자료는 현재 보관본에 없습니다. 수업 준비를 이어갈 때는 [mentoring_log.md](mentoring_log.md)를 참고합니다.
+새 자료는 `weeks/NN/`에, 보충 활동은 해당 주차의 `extras/`에 둡니다. 원본 PPT의 파일명을 유지하며, 수업 준비를 이어갈 때는 [mentoring_log.md](mentoring_log.md)를 참고합니다.
