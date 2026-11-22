@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|resume",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 .codex/hooks/load_mentoring_log.py",
+            "statusMessage": "Loading mentoring log",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  }
+}
