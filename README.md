@@ -5,11 +5,9 @@
 
 ## 수업은 이렇게 진행합니다
 
-Zoom으로 주 1회 진행하며, 일정에 따라 조율합니다. 한 회차는 2교시로, 실제 수업 시간은 교시당 약 40분입니다. 
-1교시에는 그림과 예제로 개념을 설명하고, 2교시에는 완성 게임을 시연한 뒤 학생이 코드를 직접 바꾸고 실행합니다.
+Zoom으로 주 1회, 두 교시 수업을 진행합니다. 제가 화면을 공유하고 학생과 PPT를 함께 봅니다. 예제와 실습 문제를 만나면 학생이 화면에 나온 코드를 [Programiz C Online Compiler](https://www.programiz.com/c-programming/online-compiler/)에 직접 입력해 실행합니다.
 
-실습은 빈칸 채우기에서 시작해 한 줄을 직접 쓰고, 마지막에는 작은 기능을 완성하는 순서로 진행합니다. 
-학생이 먼저 시도한 다음 정답과 실행 화면을 확인할 수 있도록 PPT와 단계별 코드를 구성합니다.
+코드가 길면 제가 Zoom 채팅에 코드 전체를 보내고, 학생은 복사해서 컴파일러에 붙여넣습니다. 웹 컴파일러에서 파일을 여는 데 어려움이 있어, 수업에서는 코드 입력이나 복사·붙여넣기로 바로 실행할 수 있게 안내합니다.
 
 ## 최신 작업 · 9주차
 
@@ -24,16 +22,13 @@ Zoom으로 주 1회 진행하며, 일정에 따라 조율합니다. 한 회차�
 | 3주차 | for 반복문 | [수업 PPT](weeks/03/C%EC%96%B8%EC%96%B4_3%ED%9A%8C%EC%B0%A8_for%EB%AC%B8_%EB%B0%98%EB%B3%B5%EB%AC%B8_90%EB%B6%84_%EC%88%98%EC%97%85%EC%9E%90%EB%A3%8C.pptx) |
 | 4주차 | while 반복문 | [수업 PPT](weeks/04/C%EC%96%B8%EC%96%B4_4%ED%9A%8C%EC%B0%A8_while%EB%AC%B8_%EB%B0%98%EB%B3%B5%EC%A0%9C%EC%96%B4_90%EB%B6%84_%EC%88%98%EC%97%85%EC%9E%90%EB%A3%8C.pptx) |
 | 5주차 | 중첩 반복과 패턴 | [수업 PPT](weeks/05/C%EC%96%B8%EC%96%B4_5%ED%9A%8C%EC%B0%A8_%EC%A4%91%EC%B2%A9%EB%B0%98%EB%B3%B5%EB%AC%B8_%ED%8C%A8%ED%84%B4_90%EB%B6%84_%EC%88%98%EC%97%85%EC%9E%90%EB%A3%8C.pptx) |
+| 6주차 | 별 피라미드와 반복문 | [수업 PPT](weeks/06/C%EC%96%B8%EC%96%B4_6%ED%9A%8C%EC%B0%A8_%EB%B3%84%ED%94%BC%EB%9D%BC%EB%AF%B8%EB%93%9C_%EB%B0%98%EB%B3%B5%EB%AC%B8_90%EB%B6%84_%EC%88%98%EC%97%85%EC%9E%90%EB%A3%8C%20%281%29.pptx) |
 | 7주차 | 반복문 복습 | [수업 PPT](weeks/07/C%EC%96%B8%EC%96%B4_7%ED%9A%8C%EC%B0%A8_%ED%95%9C%EB%8B%AC%EB%A7%8C%EC%9D%98_%EB%B3%B5%EC%8A%B5_%EB%B0%98%EB%B3%B5%EB%AC%B8_90%EB%B6%84_%EC%88%98%EC%97%85%EC%9E%90%EB%A3%8C%283%29.pptx) · [몬스터 잡기 보충 PPT](weeks/07/extras/C%EC%96%B8%EC%96%B4_%EC%B6%94%EA%B0%80%EC%8B%A4%EC%8A%B5_%EB%AA%AC%EC%8A%A4%ED%84%B0%EC%9E%A1%EA%B8%B0%EA%B2%8C%EC%9E%84_PPT%282%29.pptx) |
 | 8주차 | 보물 동굴 탈출 | [수업 PPT](weeks/08/C%EC%96%B8%EC%96%B4_8%ED%9A%8C%EC%B0%A8_%EB%B3%B4%EB%AC%BC%EB%8F%99%EA%B5%B4%ED%83%88%EC%B6%9C_%EC%8B%9C%EA%B0%81%EC%9E%90%EB%A3%8C%EB%B3%B4%EA%B0%95.pptx) |
 | 9주차 | 배열과 부스터 레이스 | [수업 PPT](weeks/09/C%EC%96%B8%EC%96%B4_9%EC%A3%BC%EC%B0%A8_%EB%B0%B0%EC%97%B4%EA%B3%BC_%EB%B6%80%EC%8A%A4%ED%84%B0%EB%A0%88%EC%9D%B4%EC%8A%A4.pptx) · [실습 코드](weeks/09/practice/) |
 
-## 실습 방법
+## 실습 자료
 
-[Programiz C Online Compiler](https://www.programiz.com/c-programming/online-compiler/)에 해당 단계의 `.c` 파일 내용을 붙여넣고 실행한다. 부스터 레이스는 `01_try.c`부터 시작한다. `*_answer.c`에는 단계별 정답이, `race_final.c`에는 완성 게임이 들어 있다.
+부스터 레이스의 `01_try.c`부터 순서대로 연습할 수 있습니다. `*_answer.c`는 단계별 정답이고, `race_final.c`는 완성 게임입니다.
 
-## 수업 이어가기
-
-[mentoring_log.md](mentoring_log.md)에 수업 운영 기준, 최신 회차, 다음 수업에 필요한 내용을 짧게 기록한다. 새 자료는 `weeks/주차/`에 추가한다. 보충 자료가 있으면 해당 주차의 `extras/`에 넣는다. 기존 PPT 파일명은 업로드 당시 이름을 유지한다. 6주차 자료는 현재 보관본에 없다.
-
-새 자료는 `weeks/NN/`에, 보충 활동은 해당 주차의 `extras/`에 둡니다. 6주차 자료는 현재 보관본에 없습니다. 수업 준비를 이어갈 때는 [mentoring_log.md](mentoring_log.md)를 참고합니다.
+새 자료는 `weeks/NN/`에, 보충 활동은 해당 주차의 `extras/`에 둡니다. 원본 PPT의 파일명을 유지하며, 수업 준비를 이어갈 때는 [mentoring_log.md](mentoring_log.md)를 참고합니다.
